@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.util.Log;
 
 import com.ngyb.onoff.OnOffView;
-import com.ngyb.onoff.R;
 
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
