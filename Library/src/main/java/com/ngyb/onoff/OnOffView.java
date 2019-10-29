@@ -1,4 +1,4 @@
-package com.ngyb.aswitch;
+package com.ngyb.onoff;
 
 import android.content.Context;
 import android.graphics.Bitmap;
